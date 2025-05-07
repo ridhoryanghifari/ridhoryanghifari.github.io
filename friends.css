@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Playfair+Display:wght@600&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #0f172a;
+  color: #f1f5f9;
+  margin: 0;
+  padding: 0;
+}
+
+.friends-container {
+  max-width: 900px;
+  margin: 80px auto;
+  padding: 30px;
+  background: #1e293b;
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 3rem;
+  color: #f9fafb;
+  text-align: center;
+  margin-bottom: 30px;
+  position: relative;
+}
+
+h1::after {
+  content: '';
+  display: block;
+  width: 70px;
+  height: 4px;
+  background: #3b82f6;
+  margin: 14px auto 0;
+  border-radius: 2px;
+}
+
+p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: #cbd5e1;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.friends-list {
+  list-style: decimal inside;
+  padding-left: 0;
+}
+
+.friends-list li {
+  background: #334155;
+  margin: 10px 0;
+  padding: 14px 20px;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.friends-list li:hover {
+  background: #475569;
+  transform: translateX(5px);
+}
+
+.friends-list a {
+  text-decoration: none;
+  color: #60a5fa;
+  font-weight: 600;
+  font-size: 1.05rem;
+  transition: color 0.3s ease;
+}
+
+.friends-list a:hover {
+  color: #3b82f6;
+}
+
+@media (max-width: 640px) {
+  .friends-container {
+    padding: 20px;
+  }
+
+  h1 {
+    font-size: 2.2rem;
+  }
+
+  .friends-list li {
+    padding: 12px 16px;
+  }
+
+  .friends-list a {
+    font-size: 1rem;
+  }
+}
