@@ -3,7 +3,8 @@ layout: post
 title: "JavaScript"
 ---
 
-### penjelasan tentang javascript.
+<!-- ### penjelasan tentang javascript. -->
+
 
 **JavaScript adalah bahasa pemrograman tingkat tinggi yang digunakan untuk membuat halaman web menjadi lebih interaktif, dinamis, dan responsif. JavaScript biasanya digunakan bersama dengan HTML dan CSS dalam pengembangan web.**
 

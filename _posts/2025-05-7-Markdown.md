@@ -3,7 +3,8 @@ layout: post
 title: "Markdown"
 ---
 
-### penjelasan tentang Markdown.
+<!-- ### penjelasan tentang markdown. -->
+
 
 ### Markdown adalah bahasa markup ringan yang dirancang untuk memformat teks agar mudah dibaca dan mudah ditulis. Markdown memungkinkan kamu menulis dokumen dengan sintaks yang sederhana namun bisa dikonversi menjadi HTML (dan format lainnya seperti PDF atau DOCX).
 

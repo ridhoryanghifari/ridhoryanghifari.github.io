@@ -3,7 +3,8 @@ layout: post
 title: "SASS dan SCSS"
 ---
 
-### penjelasan tentang SASS dan SCSS.
+<!-- ### penjelasan tentang SASS dan SCSS. -->
+
 
 ### Sass adalah preprocessor CSS yang memperluas fungsionalitas CSS biasa dengan fitur seperti variabel, nested rules, mixin, inheritance, dan lain-lain. Sass memungkinkan kamu menulis kode CSS yang lebih bersih, efisien, dan mudah dikelola.
 

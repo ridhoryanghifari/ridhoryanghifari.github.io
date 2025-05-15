@@ -3,7 +3,8 @@ layout: post
 title: "YML atau YAML"
 ---
 
-### penjelasan tentang YML atau YAML.
+<!-- ### penjelasan tentang YML atau YAML. -->
+
 
 ### YAML (singkatan dari "YAML Ain’t Markup Language") adalah format serialisasi data yang dirancang agar mudah dibaca oleh manusia. YAML sering digunakan untuk:
 

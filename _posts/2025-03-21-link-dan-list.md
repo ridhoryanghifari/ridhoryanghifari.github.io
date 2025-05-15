@@ -2,7 +2,7 @@
 layout: post
 title: "HTML Link dan Lists"
 ---
+<!-- ### penjelasan tentang link dan lists pada Html. -->
 
-### Penjelasan tentang Link dan Lists pada HTML.
 
 ![HTML Link dan Lists](/assets/images/ridho.jpg)

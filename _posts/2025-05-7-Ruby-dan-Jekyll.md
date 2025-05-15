@@ -3,7 +3,8 @@ layout: post
 title: "Ruby dan Jekyll"
 ---
 
-### penjelasan tentang Ruby dan Jekyll.
+<!-- ### penjelasan tentang ruby dan jekyll. -->
+
 
 ### Ruby adalah bahasa pemrograman tingkat tinggi, interpretatif, dan sepenuhnya berorientasi objek. Ruby diciptakan oleh Yukihiro Matsumoto (Matz) dan dirilis pertama kali pada tahun 1995. Tujuannya adalah untuk membuat bahasa pemrograman yang menyenangkan dan produktif digunakan.
 
